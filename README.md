@@ -20,6 +20,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Esse projeto é basicamente um sistema de botação para definir um personagem favorito.
+Utilizei as seguintes funções: Receber a votação dos personagens, Contar e atribuir votos, mostrar os resultados e a função principal main que recebe os dados hesdados das outras funçoes.
+
+Para subir o repositório no github iniciei o repositórino na pasta e publiquei os commits através do VSCode.
 
 ## 🛠 Melhorias
 
